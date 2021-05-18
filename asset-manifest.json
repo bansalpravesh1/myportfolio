@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/myportfolio/static/css/main.6891cb9f.chunk.css",
+    "main.js": "/myportfolio/static/js/main.27b3c8f0.chunk.js",
+    "main.js.map": "/myportfolio/static/js/main.27b3c8f0.chunk.js.map",
+    "runtime-main.js": "/myportfolio/static/js/runtime-main.ddafef14.js",
+    "runtime-main.js.map": "/myportfolio/static/js/runtime-main.ddafef14.js.map",
+    "static/js/2.29d9ba65.chunk.js": "/myportfolio/static/js/2.29d9ba65.chunk.js",
+    "static/js/2.29d9ba65.chunk.js.map": "/myportfolio/static/js/2.29d9ba65.chunk.js.map",
+    "static/js/3.1ad41e0d.chunk.js": "/myportfolio/static/js/3.1ad41e0d.chunk.js",
+    "static/js/3.1ad41e0d.chunk.js.map": "/myportfolio/static/js/3.1ad41e0d.chunk.js.map",
+    "index.html": "/myportfolio/index.html",
+    "static/css/main.6891cb9f.chunk.css.map": "/myportfolio/static/css/main.6891cb9f.chunk.css.map",
+    "static/js/2.29d9ba65.chunk.js.LICENSE.txt": "/myportfolio/static/js/2.29d9ba65.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/myportfolio/static/media/PAPYRUS.ca0c0d7f.TTF",
+    "static/media/hacktober.17157992.png": "/myportfolio/static/media/hacktober.17157992.png",
+    "static/media/logo.6ce24c58.svg": "/myportfolio/static/media/logo.6ce24c58.svg",
+    "static/media/luggage.644f951c.png": "/myportfolio/static/media/luggage.644f951c.png",
+    "static/media/mor.30c93a55.jpg": "/myportfolio/static/media/mor.30c93a55.jpg",
+    "static/media/profile2.fbe6ce32.jpeg": "/myportfolio/static/media/profile2.fbe6ce32.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ddafef14.js",
+    "static/js/2.29d9ba65.chunk.js",
+    "static/css/main.6891cb9f.chunk.css",
+    "static/js/main.27b3c8f0.chunk.js"
+  ]
+}
